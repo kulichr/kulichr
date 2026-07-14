@@ -1,11 +1,29 @@
-## About
+```
+Last login: Tue Jul 14 09:41:07 on ttys000
  
-By day, I work as a **SOC Team Lead in critical infrastructure** — leading threat detection, incident response, and keeping essential services safe. By night, I'm a **web application penetration tester**, hunting for vulnerabilities before the bad guys do.
+kulichr@macbook ~ % whoami
+
+Roman Kulich
  
-## Open to Work
+kulichr@macbook ~ % id -F
+
+🛡️  SOC Team Lead — critical infrastructure, by day
+🕷️  Web App Pentester — hunting vulns before the bad guys do, by night
  
-I'm available for **freelance web app pentesting projects** and open to **full-remote web app pentesting positions only**.
+kulichr@macbook ~ % cat ~/.skills
  
-## Contact
+Blue Team:   [redacted] - ask me
+Red Team:    Burp Suite, OWASP ZAP, Kali, Nmap, ffuf, sqlmap, Nucle, httpx, subfinder, ...
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romankulich/)
+kulichr@macbook ~ % cat ~/.status
+ 
+[OPEN] Freelance web app pentesting projects
+[OPEN] Full-remote web app pentesting positions only
+ 
+kulichr@macbook ~ % cat ~/.disclaimer
+ 
+Most of my repos are 100% vibe coded — I don't have the skill
+or patience to write code, only to break it.
+ 
+kulichr@macbook ~ %
+```
