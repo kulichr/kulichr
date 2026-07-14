@@ -13,7 +13,7 @@ kulichr@macbook ~ % id -F
 kulichr@macbook ~ % cat ~/.skills
  
 Blue Team:   [redacted] - ask me
-Red Team:    Web Apps, API and Mobile apps pentesting
+Red Team:    Web, API & mobile app pentesting
  
 kulichr@macbook ~ % cat ~/.status
  
