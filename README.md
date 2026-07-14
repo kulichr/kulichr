@@ -13,7 +13,7 @@ kulichr@macbook ~ % id -F
 kulichr@macbook ~ % cat ~/.skills
  
 Blue Team:   [redacted] - ask me
-Red Team:    Burp Suite, OWASP ZAP, Kali, Nmap, ffuf, sqlmap, Nucle, httpx, subfinder, ...
+Red Team:    Web Apps, API and Mobile apps pentesting
  
 kulichr@macbook ~ % cat ~/.status
  
