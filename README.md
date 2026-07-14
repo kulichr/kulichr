@@ -1,4 +1,4 @@
-## #whoami
+# #whoami
 
 By day, I work as a SOC Team Lead in critical infrastructure — leading threat detection, incident response, and keeping essential services safe. By night, I'm a web application penetration tester, hunting for vulnerabilities before the bad guys do.
 
