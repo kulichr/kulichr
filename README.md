@@ -24,6 +24,5 @@ kulichr@macbook ~ % cat ~/.disclaimer
  
 Most of my repos are 100% vibe coded — I don't have the skill
 or patience to write code, only to break it.
- 
 
 ```
